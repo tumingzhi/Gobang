@@ -1,0 +1,9 @@
+D:\88142725\HelloCShinp\0516_01\bin\Debug\0516_01.exe.config
+D:\88142725\HelloCShinp\0516_01\bin\Debug\0516_01.exe
+D:\88142725\HelloCShinp\0516_01\bin\Debug\0516_01.pdb
+D:\88142725\HelloCShinp\0516_01\obj\Debug\0516_01.csprojResolveAssemblyReference.cache
+D:\88142725\HelloCShinp\0516_01\obj\Debug\_0516_01.Form1.resources
+D:\88142725\HelloCShinp\0516_01\obj\Debug\_0516_01.Properties.Resources.resources
+D:\88142725\HelloCShinp\0516_01\obj\Debug\0516_01.csproj.GenerateResource.Cache
+D:\88142725\HelloCShinp\0516_01\obj\Debug\0516_01.exe
+D:\88142725\HelloCShinp\0516_01\obj\Debug\0516_01.pdb
